@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0143-reorder-list) |
 | [0326-power-of-three](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0326-power-of-three) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Table
@@ -48,4 +49,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/3483-unique-3-digit-even-numbers) |
+## Linked List
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0143-reorder-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0143-reorder-list) |
+## Stack
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
