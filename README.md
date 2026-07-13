@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0326-power-of-three) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Recursion
@@ -71,4 +72,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0279-perfect-squares) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
