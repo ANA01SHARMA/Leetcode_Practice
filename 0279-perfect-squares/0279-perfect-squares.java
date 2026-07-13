@@ -2,24 +2,30 @@ class Solution {
 
     public int numSquares(int n) {
 
-        int[] dp = new int[n + 1];
+        int[] memo = new int[n + 1];
 
-        // Initialize with maximum value
-        for (int i = 1; i <= n; i++) {
-            dp[i] = Integer.MAX_VALUE;
+        return helper(n, memo);
+    }
+
+    private int helper(int n, int[] memo) {
+
+        if (n == 0) {
+            return 0;
         }
 
-        dp[0] = 0;
-
-        // Fill DP array
-        for (int i = 1; i <= n; i++) {
-
-            for (int j = 1; j * j <= i; j++) {
-
-                dp[i] = Math.min(dp[i], dp[i - j * j] + 1);
-            }
+        if (memo[n] != 0) {
+            return memo[n];
         }
 
-        return dp[n];
+        int min = Integer.MAX_VALUE;
+
+        for (int i = 1; i * i <= n; i++) {
+
+            min = Math.min(min, 1 + helper(n - i * i, memo));
+        }
+
+        memo[n] = min;
+
+        return min;
     }
 }
