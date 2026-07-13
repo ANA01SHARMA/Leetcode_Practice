@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0035-search-insert-position) |
 | [0098-validate-binary-search-tree](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0035-search-insert-position) |
 | [0875-koko-eating-bananas](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0875-koko-eating-bananas) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/3483-unique-3-digit-even-numbers) |
 ## Math
