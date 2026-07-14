@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0035-search-insert-position) |
+| [0307-range-sum-query-mutable](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0307-range-sum-query-mutable) |
 | [0875-koko-eating-bananas](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0875-koko-eating-bananas) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/3483-unique-3-digit-even-numbers) |
 ## Math
@@ -84,4 +85,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0279-perfect-squares) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0307-range-sum-query-mutable) |
+## Design
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0307-range-sum-query-mutable) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0307-range-sum-query-mutable) |
+## Segment Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
