@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0547-number-of-provinces](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0785-is-graph-bipartite) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0279-perfect-squares) |
 | [0547-number-of-provinces](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0785-is-graph-bipartite) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -117,12 +119,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0785-is-graph-bipartite) |
 | [0997-find-the-town-judge](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0997-find-the-town-judge) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0785-is-graph-bipartite) |
 ## Matrix
 |  |
 | ------- |
