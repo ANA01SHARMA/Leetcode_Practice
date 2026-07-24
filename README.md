@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0733-flood-fill) |
 | [0875-koko-eating-bananas](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0875-koko-eating-bananas) |
 | [0997-find-the-town-judge](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0997-find-the-town-judge) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/1091-shortest-path-in-binary-matrix) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/3483-unique-3-digit-even-numbers) |
 ## Math
 |  |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0785-is-graph-bipartite) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/1971-find-if-path-exists-in-graph) |
 ## Divide and Conquer
 |  |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0221-maximal-square) |
 | [0733-flood-fill](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0733-flood-fill) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Topological Sort
 |  |
 | ------- |
