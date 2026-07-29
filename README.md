@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0189-rotate-array) |
 | [0279-perfect-squares](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0326-power-of-three) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0120-triangle) |
 | [0221-maximal-square](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0221-maximal-square) |
 | [0279-perfect-squares](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0279-perfect-squares) |
@@ -177,5 +179,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
