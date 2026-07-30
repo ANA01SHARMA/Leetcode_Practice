@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0035-search-insert-position) |
+| [0063-unique-paths-ii](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0063-unique-paths-ii) |
 | [0120-triangle](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0120-triangle) |
 | [0189-rotate-array](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0198-house-robber) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0198-house-robber) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0063-unique-paths-ii) |
 | [0200-number-of-islands](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0221-maximal-square) |
 | [0733-flood-fill](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0733-flood-fill) |
