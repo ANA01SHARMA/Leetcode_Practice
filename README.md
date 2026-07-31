@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0997-find-the-town-judge](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0997-find-the-town-judge) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 ## Sorting
 |  |
@@ -194,4 +196,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0062-unique-paths) |
+## Sliding Window
+|  |
+| ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0030-substring-with-concatenation-of-all-words) |
 <!---LeetCode Topics End-->
