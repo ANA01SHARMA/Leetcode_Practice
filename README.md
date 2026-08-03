@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0785-is-graph-bipartite) |
+| [1631-path-with-minimum-effort](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Search Tree
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0875-koko-eating-bananas](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0875-koko-eating-bananas) |
+| [1631-path-with-minimum-effort](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
 |  |
 | ------- |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0875-koko-eating-bananas) |
 | [0997-find-the-town-judge](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0997-find-the-town-judge) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/1631-path-with-minimum-effort) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/3483-unique-3-digit-even-numbers) |
 ## Math
 |  |
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0785-is-graph-bipartite) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/1971-find-if-path-exists-in-graph) |
 ## Divide and Conquer
 |  |
@@ -160,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0785-is-graph-bipartite) |
+| [1631-path-with-minimum-effort](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/1971-find-if-path-exists-in-graph) |
 ## Matrix
 |  |
@@ -169,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0221-maximal-square) |
 | [0733-flood-fill](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0733-flood-fill) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/1631-path-with-minimum-effort) |
 ## Topological Sort
 |  |
 | ------- |
@@ -200,4 +206,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0030-substring-with-concatenation-of-all-words) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
