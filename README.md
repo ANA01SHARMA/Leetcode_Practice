@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0035-search-insert-position) |
+| [0059-spiral-matrix-ii](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0063-unique-paths-ii) |
 | [0120-triangle](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0120-triangle) |
 | [0189-rotate-array](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0189-rotate-array) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0059-spiral-matrix-ii) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Dynamic Programming
 |  |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0063-unique-paths-ii) |
 | [0200-number-of-islands](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0221-maximal-square) |
