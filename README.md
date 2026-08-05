@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0063-unique-paths-ii) |
 | [0120-triangle](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0120-triangle) |
+| [0169-majority-element](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0200-number-of-islands) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0169-majority-element](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0169-majority-element) |
 | [0997-find-the-town-judge](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0997-find-the-town-judge) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0169-majority-element) |
 | [0307-range-sum-query-mutable](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0307-range-sum-query-mutable) |
 ## Design
 |  |
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0015-3sum) |
+| [0169-majority-element](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0169-majority-element) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0561-array-partition](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0561-array-partition) |
 ## Memoization
@@ -225,5 +229,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0169-majority-element) |
 | [0561-array-partition](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0561-array-partition) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
