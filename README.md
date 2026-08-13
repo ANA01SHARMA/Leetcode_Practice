@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0101-symmetric-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0101-symmetric-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0101-symmetric-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0200-number-of-islands](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0207-course-schedule) |
 | [0279-perfect-squares](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0279-perfect-squares) |
