@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0101-symmetric-tree) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0069-sqrtx) |
+| [0095-unique-binary-search-trees-ii](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0101-symmetric-tree) |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0070-climbing-stairs) |
+| [0095-unique-binary-search-trees-ii](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0095-unique-binary-search-trees-ii) |
 | [0120-triangle](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0120-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0198-house-robber](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0198-house-robber) |
@@ -289,4 +293,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0146-lru-cache) |
+## Backtracking
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0095-unique-binary-search-trees-ii) |
 <!---LeetCode Topics End-->
