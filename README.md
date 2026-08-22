@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0035-search-insert-position) |
 | [0059-spiral-matrix-ii](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0059-spiral-matrix-ii) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0001-two-sum) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0146-lru-cache](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0169-majority-element) |
