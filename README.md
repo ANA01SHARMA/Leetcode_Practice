@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0509-fibonacci-number) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
 |  |
