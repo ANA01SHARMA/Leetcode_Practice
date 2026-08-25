@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0035-search-insert-position) |
 | [0059-spiral-matrix-ii](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0063-unique-paths-ii) |
+| [0066-plus-one](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0088-merge-sorted-array) |
 | [0120-triangle](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0120-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0189-rotate-array) |
