@@ -1,17 +1,34 @@
 class Solution {
     public int findJudge(int n, int[][] trust) {
-        int[] indeg = new int[n + 1];
-        int[] outdeg = new int[n + 1];
 
-        for (int[] t : trust) {
-            outdeg[t[0]]++;
-            indeg[t[1]]++;
+        List<List<Integer>> adj = new ArrayList<>();
+
+        for (int i = 0; i <= n; i++) {
+            adj.add(new ArrayList<>());
         }
 
-        for (int i = 1; i <= n; i++) {
-            if (outdeg[i] == 0 && indeg[i] == n - 1)
-                return i;
+        int[] inDegree = new int[n + 1];
+
+        for (int[] edge : trust) {
+            int person = edge[0];
+            int trustedPerson = edge[1];
+
+            adj.get(person).add(trustedPerson);
+
+            inDegree[trustedPerson]++;
         }
+
+        for (int person = 1; person <= n; person++) {
+
+            boolean trustsNobody = adj.get(person).isEmpty();
+
+            boolean everyoneTrusts = inDegree[person] == n - 1;
+
+            if (trustsNobody && everyoneTrusts) {
+                return person;
+            }
+        }
+
         return -1;
     }
 }
