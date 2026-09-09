@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0200-number-of-islands) |
+| [0219-contains-duplicate-ii](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0219-contains-duplicate-ii) |
 | [0221-maximal-square](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0221-maximal-square) |
 | [0307-range-sum-query-mutable](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0307-range-sum-query-mutable) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0524-longest-word-in-dictionary-through-deleting) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0146-lru-cache](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0219-contains-duplicate-ii) |
 | [0997-find-the-town-judge](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0997-find-the-town-judge) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0219-contains-duplicate-ii](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0219-contains-duplicate-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
