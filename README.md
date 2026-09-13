@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0035-search-insert-position) |
+| [0051-n-queens](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0051-n-queens) |
 | [0059-spiral-matrix-ii](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0066-plus-one) |
@@ -327,10 +328,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0051-n-queens](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0051-n-queens) |
 | [0093-restore-ip-addresses](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0093-restore-ip-addresses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0095-unique-binary-search-trees-ii) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0014-longest-common-prefix) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
