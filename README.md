@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0070-climbing-stairs) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0093-restore-ip-addresses](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0097-interleaving-string) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0022-generate-parentheses) |
 | [0051-n-queens](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0051-n-queens) |
 | [0093-restore-ip-addresses](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0093-restore-ip-addresses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0095-unique-binary-search-trees-ii) |
@@ -339,4 +342,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0051-n-queens) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
