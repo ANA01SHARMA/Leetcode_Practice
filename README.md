@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0099-recover-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0700-search-in-a-binary-search-tree) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0120-triangle](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0120-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0198-house-robber) |
