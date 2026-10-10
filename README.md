@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0875-koko-eating-bananas](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0875-koko-eating-bananas) |
 | [1631-path-with-minimum-effort](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/1631-path-with-minimum-effort) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Binary Tree
 |  |
 | ------- |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0997-find-the-town-judge) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/1631-path-with-minimum-effort) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/3483-unique-3-digit-even-numbers) |
 ## Math
 |  |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0169-majority-element) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0561-array-partition](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0561-array-partition) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Memoization
 |  |
 | ------- |
@@ -329,11 +332,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1631-path-with-minimum-effort](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/1631-path-with-minimum-effort) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0011-container-with-most-water) |
 | [0561-array-partition](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0561-array-partition) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Counting Sort
 |  |
 | ------- |
