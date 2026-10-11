@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0145-binary-tree-postorder-traversal) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0145-binary-tree-postorder-traversal) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0120-triangle](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0120-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0146-lru-cache](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0219-contains-duplicate-ii) |
@@ -243,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0169-majority-element) |
 | [0307-range-sum-query-mutable](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0307-range-sum-query-mutable) |
