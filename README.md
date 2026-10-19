@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0138-copy-list-with-random-pointer](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0219-contains-duplicate-ii) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0092-reverse-linked-list-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0138-copy-list-with-random-pointer](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0138-copy-list-with-random-pointer) |
 | [0143-reorder-list](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0206-reverse-linked-list) |
