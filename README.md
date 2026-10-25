@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0051-n-queens) |
 | [0059-spiral-matrix-ii](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0063-unique-paths-ii) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0037-sudoku-solver](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0037-sudoku-solver) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0138-copy-list-with-random-pointer) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0037-sudoku-solver) |
 | [0059-spiral-matrix-ii](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0063-unique-paths-ii) |
 | [0200-number-of-islands](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0200-number-of-islands) |
@@ -369,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0051-n-queens) |
 | [0093-restore-ip-addresses](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0093-restore-ip-addresses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0095-unique-binary-search-trees-ii) |
@@ -379,9 +383,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0051-n-queens) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0022-generate-parentheses) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
