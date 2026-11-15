@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0012-integer-to-roman) |
+| [0029-divide-two-integers](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0069-sqrtx) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0029-divide-two-integers) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Simulation
 |  |
