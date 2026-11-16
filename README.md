@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0118-pascals-triangle](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0120-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0070-climbing-stairs) |
 | [0095-unique-binary-search-trees-ii](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0095-unique-binary-search-trees-ii) |
 | [0097-interleaving-string](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0097-interleaving-string) |
+| [0118-pascals-triangle](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0120-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0198-house-robber](https://github.com/ANA01SHARMA/Leetcode_Practice/tree/master/0198-house-robber) |
